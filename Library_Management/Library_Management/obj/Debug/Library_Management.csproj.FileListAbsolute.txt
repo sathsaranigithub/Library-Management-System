@@ -1,0 +1,53 @@
+E:\LM\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+E:\LM\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+E:\LM\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.Dashbord.resources
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.AddBook.resources
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.AddStudent.resources
+E:\LM\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+C:\library 2\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+C:\library 2\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+C:\library 2\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.SuggestedBindingRedirects.cache
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.AddBook.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.AddStudent.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.Dashbord.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.ViewBook.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.ViewStudent.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.IssueBook.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.IssueBookReport.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.ReturnBook.resources
+C:\library 2\Library_Management\Library_Management\obj\Debug\Library_Management.ReturnBookReport.resources
+C:\git libry\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+C:\git libry\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+C:\git libry\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.SuggestedBindingRedirects.cache
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.AddBook.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.AddStudent.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.Dashbord.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.IssueBook.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.IssueBookReport.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.ReturnBook.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.ReturnBookReport.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.ViewBook.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.ViewStudent.resources
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+C:\git libry\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
