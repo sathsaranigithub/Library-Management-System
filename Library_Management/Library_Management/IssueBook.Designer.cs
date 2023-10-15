@@ -82,6 +82,7 @@
             this.button1.TabIndex = 46;
             this.button1.Text = "Issue Book";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox6
             // 
@@ -257,6 +258,7 @@
             this.dateTimePicker1.Size = new System.Drawing.Size(310, 22);
             this.dateTimePicker1.TabIndex = 54;
             this.dateTimePicker1.Value = new System.DateTime(2023, 10, 9, 22, 25, 19, 0);
+            this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
             // IssueBook
             // 

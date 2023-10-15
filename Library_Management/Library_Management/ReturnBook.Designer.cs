@@ -59,6 +59,7 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(569, 325);
             this.dataGridView1.TabIndex = 13;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // button3
             // 
@@ -71,6 +72,7 @@
             this.button3.TabIndex = 54;
             this.button3.Text = "Search Student";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox7
             // 
@@ -103,6 +105,7 @@
             this.button1.TabIndex = 57;
             this.button1.Text = "Return Book";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label2
             // 

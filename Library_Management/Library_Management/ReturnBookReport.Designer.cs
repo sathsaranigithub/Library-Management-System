@@ -52,6 +52,7 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(998, 454);
             this.dataGridView1.TabIndex = 17;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // button1
             // 
@@ -92,6 +93,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ReturnBookReport";
             this.Text = "ReturnBookReport";
+            this.Load += new System.EventHandler(this.ReturnBookReport_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
