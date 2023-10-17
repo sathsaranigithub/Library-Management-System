@@ -71,3 +71,5 @@ C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_
 C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
 C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_Management.exe
 C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_Management.AuditRecord.resources
+C:\git libry management\Library_Management\Library_Management\obj\Debug\Library_Management.UpdateBook.resources

@@ -11,33 +11,19 @@ using System.Windows.Forms;
 
 namespace Library_Management
 {
-    public partial class ViewBook : Form
+    public partial class AuditRecord : Form
     {
         SqlConnection con = new SqlConnection("Data Source=LAPTOP-O2IU0D16\\SQLEXPRESS;Initial Catalog=library;Integrated Security=True;");
 
-        public ViewBook()
+        public AuditRecord()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void AuditRecord_Load(object sender, EventArgs e)
         {
             con.Open();
-            SqlCommand cmd = new SqlCommand("ViewBooks", con);
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.Add("@BookName", SqlDbType.NVarChar).Value = textBox1.Text;
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            dataGridView1.DataSource = dt;
-            con.Close();
-
-        }
-
-        private void ViewBook_Load(object sender, EventArgs e)
-        {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("ViewBooks", con);
+            SqlCommand cmd = new SqlCommand("ViewAuditLog", con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.Add("@BookName", SqlDbType.NVarChar).Value = "";
             SqlDataAdapter da = new SqlDataAdapter(cmd);
@@ -45,12 +31,19 @@ namespace Library_Management
             da.Fill(dt);
             dataGridView1.DataSource = dt;
             con.Close();
-
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            con.Open();
+            SqlCommand cmd = new SqlCommand("ViewAuditLog", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@BookName", SqlDbType.NVarChar).Value = textBox1.Text;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
+            con.Close();
         }
     }
 }

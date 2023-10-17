@@ -75,5 +75,11 @@ namespace Library_Management
             ViewStudent vs = new ViewStudent();
             vs.Show();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            AuditRecord AR = new AuditRecord();
+            AR.Show();
+        }
     }
 }

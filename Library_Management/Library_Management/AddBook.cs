@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Library_Management
 {
@@ -81,6 +82,14 @@ namespace Library_Management
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            UpdateBook UB = new UpdateBook();
+            UB.Show();
+            this.Hide();
         }
     }
 }
